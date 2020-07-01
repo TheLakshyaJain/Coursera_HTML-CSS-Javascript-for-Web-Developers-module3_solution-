@@ -1,1 +1,1 @@
-# Coursera_HTML-CSS-Javascript-for-Web-Developers-module3_solution-
+# Coursera_HTML-CSS-Javascript-for-Web-Developers-module3_solution
